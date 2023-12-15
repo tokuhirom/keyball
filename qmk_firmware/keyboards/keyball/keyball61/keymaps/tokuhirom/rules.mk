@@ -1,0 +1,5 @@
+OLED_ENABLE = no
+
+VIA_ENABLE = yes
+
+EXTRAKEY_ENABLE = yes
