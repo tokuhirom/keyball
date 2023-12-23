@@ -42,6 +42,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #undef SPLIT_USB_TIMEOUT
 #define SPLIT_USB_TIMEOUT 2500
 
-#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
 
 #define TAP_CODE_DELAY 5
